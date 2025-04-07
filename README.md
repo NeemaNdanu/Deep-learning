@@ -1,7 +1,7 @@
 # Deep-learning
 This contains all projects related to deep learning
 ## First Project
-### Project 2: Real-Time Object Detection for Road Safety and Traffic Management
+### Real-Time Object Detection for Road Safety and Traffic Management
 Context:
 Many African cities face high accident rates due to poor traffic monitoring, reckless driving, and limited automated surveillance systems. AI-powered object detection can help monitor road accidents, detect traffic violations, and enhance public safety.
 
