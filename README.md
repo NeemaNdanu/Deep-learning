@@ -1,4 +1,4 @@
-## Task: Train an object detection model on a given dataset and evaluate its performance. Compare its performance with other models trained on the dataset. [30M]
+## Task: Train an object detection model on a given dataset and evaluate its performance.
 ### Steps:
 
 * Choose a dataset (e.g., COCO, PASCAL VOC, or a custom dataset).
