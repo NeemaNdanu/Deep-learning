@@ -6,7 +6,7 @@ This repository contains coursework, assignments, and a final project completed 
 
 ## Repository Structure
 /deep-learning/
-│
+
 ├── assignment_unsupervised_learning/
 
 │ └── unsupervised_learning.ipynb
